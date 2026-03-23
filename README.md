@@ -1,6 +1,6 @@
 # Hi There 👋, I’m Hashanthi Rathnayake
 
-I’m a Master's graduate in **Artificial Intelligence and Data Analytics** from Jamk University of Applied Sciences. My background is in **manual testing, test automation, and API testing**, with a strong focus on delivering **high-quality, reliable applications**. I’m also actively developing my skills as a **software developer**.
+I’m a Master's graduate in **Artificial Intelligence and Data Analytics** from Jamk University of Applied Sciences. My background is in **manual testing, test automation, and API testing**, with a strong focus on delivering **high-quality, reliable applications**. Beyond testing,  I’m also actively developing my skills as a **software developer**. I enjoy exploring new technologies, sharing insights with my peers, and growing as a hybrid testing and development professional.
 
 ### 🔧 Tech Stack
 - **Languages & Frameworks:** Java, Python, HTML, CSS, React  
