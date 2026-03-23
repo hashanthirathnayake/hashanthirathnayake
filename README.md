@@ -3,7 +3,7 @@
 I’m a Master's graduate in **Artificial Intelligence and Data Analytics** from Jamk University of Applied Sciences. My background is in **manual testing, test automation, and API testing**, with a strong focus on delivering **high-quality, reliable applications**. I’m also actively developing my skills as a **software developer**.
 
 ### 🔧 Tech Stack
-- **Languages & Frameworks:** Java, Python, HTML, CSS, JavaScript, React, Node.js  
+- **Languages & Frameworks:** Java, Python, HTML, CSS, React  
 - **Testing & Automation:** Selenium, Robot Framework, Jenkins, API Testing  
 - **Databases & Tools:** SQL, Postman, Jira, Azure DevOps, BrowserStack
 
