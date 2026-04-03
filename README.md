@@ -45,9 +45,14 @@ I’m a Master's graduate in **Artificial Intelligence and Data Analytics** from
 - Hands-on examples of web automation using Robot Framework and Selenium WebDriver  
 - Covers input fields, checkboxes, radio buttons, dropdowns, and list boxes  
 - Demonstrates synchronization techniques (waits, timeouts, dynamic elements)  
-- Includes automatically generated logs and reports for analysis and debugging  
+- Includes automatically generated logs and reports for analysis and debugging
 
-**3. Manufacturing & Order Process Management System (MOPMS)**  
+**3. React Contact Manager App — a simple and practical React application for managing contacts. Built using React Hooks, reusable components, and localStorage for data persistence. This project is designed to strengthen core frontend development skills and is continuously enhanced with new features.
+
+*Repository:* [React Contact Manager App](https://github.com/hashanthirathnayake/contact-app)
+
+
+**4. Manufacturing & Order Process Management System (MOPMS)**  
 *Repository:* [MOPMS](https://github.com/hashanthirathnayake/MOPMS)  
 - Web-based platform for a cement products manufacturing company  
 - Streamlines order handling, production tracking, delivery management, and reporting  
@@ -55,9 +60,9 @@ I’m a Master's graduate in **Artificial Intelligence and Data Analytics** from
 ---
 
 ## 🌱 Fun Facts About Me
-- Nature lover 🌿  
+- Nature lover 🌿 🏝️ 🏖️ 
 - Dog lover 🐶  
-- Enjoy traveling ✈️  
+- Enjoy traveling  🚲 🚗 🚢 ✈️  
 
 ---
 
