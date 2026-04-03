@@ -47,7 +47,8 @@ I’m a Master's graduate in **Artificial Intelligence and Data Analytics** from
 - Demonstrates synchronization techniques (waits, timeouts, dynamic elements)  
 - Includes automatically generated logs and reports for analysis and debugging
 
-**3. React Contact Manager App — a simple and practical React application for managing contacts. Built using React Hooks, reusable components, and localStorage for data persistence. This project is designed to strengthen core frontend development skills and is continuously enhanced with new features.
+**3. React Contact Manager App **
+- A simple and practical React application for managing contacts. Built using React Hooks, reusable components, and localStorage for data persistence. This project is designed to strengthen core frontend development skills and is continuously enhanced with new features.
 
 *Repository:* [React Contact Manager App](https://github.com/hashanthirathnayake/contact-app)
 
